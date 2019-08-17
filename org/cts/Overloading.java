@@ -29,5 +29,7 @@ public static void main(String[] args) {
 	b.jay("Jayanthi");
 	b.jay(789,"KFC");
 	b.jay("String",65000.485f);
+	
+	System.out.println("done");
 }
 }
